@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Untiff": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\miff\\Temp\\test.tiff\""
+    }
+  }
+}
